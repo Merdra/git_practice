@@ -7,3 +7,9 @@ body{
 	background-color: lightcyan;
 	color: black;
 }
+
+.meaning{
+	text-align: left;
+	background-color: orange;
+	color: whitesmoke;
+}
